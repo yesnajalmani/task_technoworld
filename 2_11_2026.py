@@ -28,7 +28,7 @@ while True:
     if choice=="yes":
         fuc()
     else:
-        print("thank you!  ")
+        print("🎮 Thank you for playing my game! Your time made it special. Keep smiling and come back soon! ❤️")
         break
 
 
